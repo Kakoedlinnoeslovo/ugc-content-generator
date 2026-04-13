@@ -1,0 +1,40 @@
+# Environment & secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Vendored libs
+.pylibs/
+
+# Output artifacts (large generated images)
+ugc_output/
+output_remixes/
+output_remixes.zip
+
+# Input data
+for_feed_preview/
+higgsfield_gallery/
+
+# Legacy
+legacy_data/
+
+# Logs
+logs/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
