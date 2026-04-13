@@ -53,9 +53,9 @@ Output goes to `output_remixes/<image_id>/` with:
 Source photos are re-generated with UGC iPhone-snapshot aesthetic:
 
 <p align="center">
-  <img src="ugc_output/8617IX0eDLf3EyLK_0.png" width="250" />
-  <img src="ugc_output/4AOrtveT6LDhD60J_0.png" width="250" />
-  <img src="ugc_output/6fzPlkrgfji0HlXZ_0.png" width="250" />
+  <img src="examples/generate/8617IX0eDLf3EyLK_0.png" width="250" />
+  <img src="examples/generate/4AOrtveT6LDhD60J_0.png" width="250" />
+  <img src="examples/generate/6fzPlkrgfji0HlXZ_0.png" width="250" />
 </p>
 
 ### Remix (Stage 2)
@@ -65,17 +65,17 @@ Each remix changes ONE axis — clothing, held item, background object, or locat
 **Example 1** — Paris street scene. Original → wetsuit swap → wildflower bouquet swap:
 
 <p align="center">
-  <img src="output_remixes/8617IX0eDLf3EyLK_0/original.png" width="220" />
-  <img src="output_remixes/8617IX0eDLf3EyLK_0/remix_1.png" width="220" />
-  <img src="output_remixes/8617IX0eDLf3EyLK_0/remix_2.png" width="220" />
+  <img src="examples/remix/8617IX0eDLf3EyLK_0/original.png" width="220" />
+  <img src="examples/remix/8617IX0eDLf3EyLK_0/remix_1.png" width="220" />
+  <img src="examples/remix/8617IX0eDLf3EyLK_0/remix_2.png" width="220" />
 </p>
 
 **Example 2** — Boutique scene. Original → CRT TV wall background → wetsuit swap:
 
 <p align="center">
-  <img src="output_remixes/4AOrtveT6LDhD60J_0/original.png" width="220" />
-  <img src="output_remixes/4AOrtveT6LDhD60J_0/remix_1.png" width="220" />
-  <img src="output_remixes/4AOrtveT6LDhD60J_0/remix_2.png" width="220" />
+  <img src="examples/remix/4AOrtveT6LDhD60J_0/original.png" width="220" />
+  <img src="examples/remix/4AOrtveT6LDhD60J_0/remix_1.png" width="220" />
+  <img src="examples/remix/4AOrtveT6LDhD60J_0/remix_2.png" width="220" />
 </p>
 
 ## Project Structure
